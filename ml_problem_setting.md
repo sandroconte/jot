@@ -1,7 +1,7 @@
-#Machine learning: the problem setting
+# Machine learning: the problem setting
 In general, a learning problem considers a set of n samples of data and then tries to predict properties of unknown data. If each sample is more than a single number and, for instance, a multi-dimensional entry (aka multivariate data), it is said to have several attributes or features.
 
-##Learning problems fall into a few categories:
+## Learning problems fall into a few categories:
 
 - supervised learning, in which the data comes with additional attributes that we want to predict (Click here to go to the scikit-learn supervised learning page).This problem can be either:
 
